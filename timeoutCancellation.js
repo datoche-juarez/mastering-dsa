@@ -1,6 +1,6 @@
 // LeetCode 30 Days of JavaScript
 // 2751. Timeout Cancellation
-// January 2nd, 2024
+// January 2nd, 2025
 
 /**
  * @param {Function} fn

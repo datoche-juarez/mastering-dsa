@@ -1,6 +1,6 @@
 // LeetCode 30 Days of JavaScript
 // 2725. Interval Cancellation
-// January 14th, 2024
+// January 14th, 2025
 
 /**
  * @param {Function} fn

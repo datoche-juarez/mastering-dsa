@@ -1,6 +1,6 @@
 // LeetCode 30 Days of JavaScript
 // 2621. Sleep
-// January 2nd, 2024
+// January 2nd, 2025
 
 /**
  * @param {number} millis
